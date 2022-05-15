@@ -1,2 +1,2 @@
 # DATA_SCIENCE
-Projects I worked 
+This repository is created to store the code for my final year individual project. 
