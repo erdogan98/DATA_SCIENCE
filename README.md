@@ -1,2 +1,2 @@
 # DATA_SCIENCE
-This repository is created to store the code for my final year individual project. 
+This repository is created to store Google Colab test codes 
